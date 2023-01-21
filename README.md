@@ -1,5 +1,6 @@
 # Instagram Unfollowers Español
-![image](https://user-images.githubusercontent.com/30374898/213878672-f3840fe0-d143-4391-969f-ca46471611cf.png)
+![image](https://user-images.githubusercontent.com/30374898/213878705-7672530a-c724-4463-b87b-b13ba26dc111.png)
+
 
 Una ingeniosa herramienta que te permite ver quién no te sigue en Instagram. Basado en navegador y no requiere descargas ni instalaciones.
 
